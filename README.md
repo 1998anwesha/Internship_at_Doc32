@@ -8,3 +8,6 @@ Primarily my tasks were:
 3) We display relevant instructions to the patient depending on head tilt angle.
 4) Using smile detection algorithm to extract region of interest for diagnostic purposes.
 5) Comparing template/feature mathing algorithm efficiency.
+6) Sentiment analysis on Instagram comments
+
+
